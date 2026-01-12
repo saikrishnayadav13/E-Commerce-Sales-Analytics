@@ -37,6 +37,7 @@ The objective is to provide actionable insights into revenue, customer behavior,
 - Payment method performance insights
 
 ## 📷 Dashboard Preview
+[E-Commerce Dashboard] (https://github.com/saikrishnayadav13/E-Commerce-Sales-Analytics/blob/555cb8ed8108277b99695a62216110851ee8ad1f/Screenshot%202026-01-12%20135719.png)
 
 
 ## 🔍 Business Insights
